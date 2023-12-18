@@ -1,6 +1,6 @@
 # Federated-Long-tailed-Learning
 
-This repository is the official implementation of "Label-distribution-agnostic Ensemble Learning on Federated Long-tailed Data"
+This repository is the official implementation of ["Global Balanced Experts for Federated Long-Tailed Learning"](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_Global_Balanced_Experts_for_Federated_Long-Tailed_Learning_ICCV_2023_paper.pdf)
 
 ## Installation
 
